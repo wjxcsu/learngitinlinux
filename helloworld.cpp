@@ -1,6 +1,6 @@
 #include<iostream>
 using  namespace std;
-namespace A
+namespace  A
 {
     int x=1;
     int fun(){
